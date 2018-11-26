@@ -1,0 +1,111 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+/** TAB **/
+
+.settings_page_dwp-loginizer .nav-tab-active {
+    background: #ffffff;
+}
+
+/** FIELDS **/
+
+.form-settings .form-table {
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.image-preview {
+    display: inline-block;
+}
+
+#bg-image img {
+    width: 450px;
+}
+
+#logo-image img {
+    width: 100px;
+}
+
+#form-image img {
+    width: 320px;
+}
+
+.media-upload.image-active .action-button #upload-image{
+    display: none;
+}
+
+.media-upload.no-image .action-button #remove-image {
+    display: none;
+}
+
+#form-settings input[type=number] {
+    width: 48px;
+} 
+
+#form-settings input[type=number].form-width {
+    width: 70px;
+} 
+
+#custom-css table tr th {
+    display: none;
+}
+
+form#form-settings {
+    padding: 20px;
+    background: #ffffff;
+    width: 70%;
+}
+
+.submit-btn p:first-child {
+    float: left;
+    margin-top: 30px;
+}
+
+.submit-btn p:last-child {
+    float: right;
+    margin-top: 30px;
+}
+
+.submit-btn p:last-child input {
+    background: #a1a1a1;
+    border: 1px solid #666;
+    box-shadow: 0 1px 0 #666;
+    text-shadow: unset;
+    color:#fff;
+}
+
+
+.submit-btn p:last-child input:hover {
+    background: #666;
+    border: 1px solid #666;
+}
+
+/**
+ * CodeMirror
+ */
+
+.CodeMirror.cm-s-default {
+    border: 1px solid #e9e9e9;
+}
+
+/**
+ * MEDIA QUERIES
+ */
+
+@media ( min-width: 768px ) {
+    .tabs i {
+        padding: 5px;
+        margin-right: 10px;
+    }
+    .tabs label.tab-head span {
+        display: inline-block;
+        padding: 10px 0;
+    }
+    .tabs {
+    max-width: 750px;
+    margin: 50px 0;
+    }
+}
