@@ -1,0 +1,15 @@
+/**
+ * All of the CSS for your login page should be
+ * included in this file.
+ */
+
+@media only screen and ( max-width: 414px ) {
+
+    body.login #login {
+        margin: auto !important;
+    }
+
+    body.login form#loginform {
+        width: auto !important;
+    }
+}
