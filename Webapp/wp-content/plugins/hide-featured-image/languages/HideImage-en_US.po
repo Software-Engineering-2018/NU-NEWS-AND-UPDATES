@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-05-28 22:28+0530\n"
+"PO-Revision-Date: 2018-05-28 22:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: index.php\n"
+
+#: index.php:42
+msgid "Hide Featured Image?"
+msgstr "Hide Featured Image?"
+
+#: index.php:54 index.php:169 index.php:176
+msgid "Yes"
+msgstr "Yes"
+
+#: index.php:55 index.php:170 index.php:177
+msgid "No"
+msgstr "No"
+
+#: index.php:124 index.php:125
+msgid "Hide Featured Image"
+msgstr "Hide Featured Image"
+
+#: index.php:166
+msgid "Hide Image from all Posts(not Custom Post Type)?"
+msgstr "Hide Image from all Posts(not Custom Post Type)?"
+
+#: index.php:173
+msgid "Hide Image from all Pages?"
+msgstr "Hide Image from all Pages?"
+
+#: index.php:187
+msgid "How to use \"Hide Featured Image\" Plugin ?"
+msgstr "How to use \"Hide Featured Image\" Plugin ?"
+
+#: index.php:189
+msgid ""
+"To hide featured images from all Posts(not Custom Post Types) Or from Pages, "
+"select the 'Yes' option above."
+msgstr ""
+"To hide featured images from all Posts(not Custom Post Types) Or from Pages, "
+"select the 'Yes' option above."
+
+#: index.php:190
+msgid ""
+"If you want to hide featured image from few posts/pages and not all, then "
+"edit that single page and select 'yes' to hide feature image from that "
+"particular post."
+msgstr ""
+"If you want to hide featured image from few posts/pages and not all, then "
+"edit that single page and select 'yes' to hide feature image from that "
+"particular post."
+
+#: index.php:191
+msgid ""
+"At any point, the option selected on single page/post will override the "
+"option provided in settings page. So if you have selected \"Hide All\" and "
+"want to show featured image on one post then you can select \"No\"(don't "
+"hide featured image) from edit page of that post."
+msgstr ""
+"At any point, the option selected on single page/post will override the "
+"option provided in settings page. So if you have selected \"Hide All\" and "
+"want to show featured image on one post then you can select \"No\"(don't "
+"hide featured image) from edit page of that post."
+
+#: index.php:192
+msgid "For any query or detailed information please visit"
+msgstr "For any query or detailed information please visit"
+
+#: index.php:193 index.php:194
+msgid "Plugin home"
+msgstr "Plugin home"
+
+#: index.php:208
+msgid "Support this plugin"
+msgstr "Support this plugin"
+
+#: index.php:210
+#, php-format
+msgid ""
+"If you found this plugin useful, or I've already helped you, please consider "
+"buying me a %s coffee %s or two."
+msgstr ""
+"If you found this plugin useful, or I've already helped you, please consider "
+"buying me a %s coffee %s or two."
+
+#: index.php:211
+msgid ""
+"Donations help alleviate the time spent developing and supporting this "
+"plugin and are greatly appreciated."
+msgstr ""
+"Donations help alleviate the time spent developing and supporting this "
+"plugin and are greatly appreciated."
